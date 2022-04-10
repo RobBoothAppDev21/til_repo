@@ -6,7 +6,7 @@ title: Three things I learned from The Ruby Koans
 Here are (at least) three things I learned from [The Ruby Koans](http://rubykoans.com/):
 
 
- Single Quotes vs. Double Quotes vs. String-Literals:
+ **Single Quotes vs. Double Quotes vs. String-Literals**
  
  Single Quotes vs. Double Quotes vs. Alternate String Syntax:
  
